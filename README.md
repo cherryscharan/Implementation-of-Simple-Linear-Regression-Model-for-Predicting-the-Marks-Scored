@@ -1,5 +1,5 @@
-# Developed by: NaveenKumar.T
-# Register Number: 212223220067
+# *Developed by: NaveenKumar.T*
+# *Register Number: 212223220067*
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
@@ -19,8 +19,8 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 
-/*Program to implement the simple linear regression model for predicting the marks scored./*
-
+*Program to implement the simple linear regression model for predicting the marks scored.*
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -63,7 +63,7 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-
+```
 
 ## Output:
 
@@ -71,7 +71,7 @@ print("RMSE= ",rmse)
 
 ![278995575-c7816d33-6dab-45e2-8d19-9a11e9583cb5](https://github.com/cherryscharan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146930617/77f02a64-78ed-4399-9259-689112602f13)
 
-# #Head values:
+## Head values:
 
 ![278996479-7f3d7783-4601-4e70-989f-2ccbf87d0765](https://github.com/cherryscharan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146930617/2228870b-adf9-4236-bf2a-f93acbc08937)
 
